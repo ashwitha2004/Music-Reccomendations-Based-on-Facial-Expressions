@@ -19,6 +19,9 @@
 
 This project is a web application that leverages advanced computer vision and machine learning techniques to provide real-time music recommendations based on a user's facial expressions. It captures live video from the user's webcam, detects facial expressions (e.g., happy, sad, angry), and then uses the detected emotion to fetch and suggest suitable music tracks via the Spotify API.
 
+## Screenshots
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/198ae767-df66-4a22-a13f-f7746810a08e" />
+
 Designed for an intuitive user experience, this application aims to enhance personal music listening by dynamically adapting playlists to the user's current emotional state, creating a more personalized and immersive audio journey.
 
 ## ✨ Features
